@@ -1,0 +1,32 @@
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.icon {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+table{
+  border-collapse: collapse;
+   border: 0px solid black;
+  
+}
+
+td, th {
+  border: 0px solid #dddddd;
+ 
+  }
+
+  .blinktext {
+    animation: blinker 2s linear infinite;
+  }
+  
+  @keyframes blinker {  
+    100% { opacity: 50%; }
+  }
