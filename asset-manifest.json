@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/peterliprof/fortune/static/css/main.76c42f50.chunk.css",
-    "main.js": "/peterliprof/fortune/static/js/main.800053f2.chunk.js",
-    "main.js.map": "/peterliprof/fortune/static/js/main.800053f2.chunk.js.map",
-    "runtime-main.js": "/peterliprof/fortune/static/js/runtime-main.11d2cd36.js",
-    "runtime-main.js.map": "/peterliprof/fortune/static/js/runtime-main.11d2cd36.js.map",
-    "static/js/2.4a0d5ae3.chunk.js": "/peterliprof/fortune/static/js/2.4a0d5ae3.chunk.js",
-    "static/js/2.4a0d5ae3.chunk.js.map": "/peterliprof/fortune/static/js/2.4a0d5ae3.chunk.js.map",
-    "index.html": "/peterliprof/fortune/index.html",
-    "static/css/main.76c42f50.chunk.css.map": "/peterliprof/fortune/static/css/main.76c42f50.chunk.css.map",
-    "static/js/2.4a0d5ae3.chunk.js.LICENSE.txt": "/peterliprof/fortune/static/js/2.4a0d5ae3.chunk.js.LICENSE.txt"
+    "main.css": "/fortune/static/css/main.76c42f50.chunk.css",
+    "main.js": "/fortune/static/js/main.afc1f742.chunk.js",
+    "main.js.map": "/fortune/static/js/main.afc1f742.chunk.js.map",
+    "runtime-main.js": "/fortune/static/js/runtime-main.1c80a9f5.js",
+    "runtime-main.js.map": "/fortune/static/js/runtime-main.1c80a9f5.js.map",
+    "static/js/2.8b9818c1.chunk.js": "/fortune/static/js/2.8b9818c1.chunk.js",
+    "static/js/2.8b9818c1.chunk.js.map": "/fortune/static/js/2.8b9818c1.chunk.js.map",
+    "index.html": "/fortune/index.html",
+    "static/css/main.76c42f50.chunk.css.map": "/fortune/static/css/main.76c42f50.chunk.css.map",
+    "static/js/2.8b9818c1.chunk.js.LICENSE.txt": "/fortune/static/js/2.8b9818c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11d2cd36.js",
-    "static/js/2.4a0d5ae3.chunk.js",
+    "static/js/runtime-main.1c80a9f5.js",
+    "static/js/2.8b9818c1.chunk.js",
     "static/css/main.76c42f50.chunk.css",
-    "static/js/main.800053f2.chunk.js"
+    "static/js/main.afc1f742.chunk.js"
   ]
 }
