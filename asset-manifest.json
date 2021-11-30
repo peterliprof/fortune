@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/peterliprof/fortune/static/css/main.76c42f50.chunk.css",
+    "main.js": "/peterliprof/fortune/static/js/main.800053f2.chunk.js",
+    "main.js.map": "/peterliprof/fortune/static/js/main.800053f2.chunk.js.map",
+    "runtime-main.js": "/peterliprof/fortune/static/js/runtime-main.11d2cd36.js",
+    "runtime-main.js.map": "/peterliprof/fortune/static/js/runtime-main.11d2cd36.js.map",
+    "static/js/2.4a0d5ae3.chunk.js": "/peterliprof/fortune/static/js/2.4a0d5ae3.chunk.js",
+    "static/js/2.4a0d5ae3.chunk.js.map": "/peterliprof/fortune/static/js/2.4a0d5ae3.chunk.js.map",
+    "index.html": "/peterliprof/fortune/index.html",
+    "static/css/main.76c42f50.chunk.css.map": "/peterliprof/fortune/static/css/main.76c42f50.chunk.css.map",
+    "static/js/2.4a0d5ae3.chunk.js.LICENSE.txt": "/peterliprof/fortune/static/js/2.4a0d5ae3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11d2cd36.js",
+    "static/js/2.4a0d5ae3.chunk.js",
+    "static/css/main.76c42f50.chunk.css",
+    "static/js/main.800053f2.chunk.js"
+  ]
+}
