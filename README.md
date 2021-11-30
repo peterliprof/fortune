@@ -1,3 +1,5 @@
+Fortune PC Browser Game
+
 Never know when and where you will make a fortune.
 
 The Forturne Game is all about collecting coins.
