@@ -2,11 +2,9 @@ Fortune PC Browser Game
 
 Never know when and where you will make a fortune.
 
-The Forturne Game is all about collecting coins.
+The Forturne Game is all about collecting acient coins.
 
-The keys to to collect most coins are the best strategy and quick decisions.
-
-By default, there are totally 100 coins, capture each coin will get 10 scores, lost one will deduct 2 scores. 
+By default, there are totally 100 coins, capture each coin will get 10 scores, lost one 2 scores will be deducted. 
 
 Use arrow keys to move around.
 
