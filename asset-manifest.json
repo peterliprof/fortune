@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fortune/static/css/main.76c42f50.chunk.css",
-    "main.js": "/fortune/static/js/main.afc1f742.chunk.js",
-    "main.js.map": "/fortune/static/js/main.afc1f742.chunk.js.map",
+    "main.js": "/fortune/static/js/main.d95a9360.chunk.js",
+    "main.js.map": "/fortune/static/js/main.d95a9360.chunk.js.map",
     "runtime-main.js": "/fortune/static/js/runtime-main.1c80a9f5.js",
     "runtime-main.js.map": "/fortune/static/js/runtime-main.1c80a9f5.js.map",
     "static/js/2.8b9818c1.chunk.js": "/fortune/static/js/2.8b9818c1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1c80a9f5.js",
     "static/js/2.8b9818c1.chunk.js",
     "static/css/main.76c42f50.chunk.css",
-    "static/js/main.afc1f742.chunk.js"
+    "static/js/main.d95a9360.chunk.js"
   ]
 }
